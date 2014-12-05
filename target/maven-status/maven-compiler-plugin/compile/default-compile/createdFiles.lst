@@ -1,0 +1,4 @@
+com/dropwizard/example/HelloWorldResource.class
+com/dropwizard/example/HelloWorldConfiguration.class
+com/dropwizard/example/Saying.class
+com/dropwizard/example/HelloWorldApplication.class
